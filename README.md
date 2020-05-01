@@ -22,8 +22,8 @@ styled-components </br>
 typescript </br>
 <h2>Pré-requisitos </h2>
 Node.js >= 8.10 instalado
-React instalado
-yarn instalado
+React instalado </br>
+yarn instalado <br>
 <h2>Como executar </h2>
 <p>Execute a aplicação em ambiente local, abra o diretório do projeto no terminal e execute os.seguintes comandos: </p>
 <b>Instalar dependências do projeto: </b> </br>
