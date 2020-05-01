@@ -1,4 +1,4 @@
-<h2> GitHub Explorer. </h2>
+<h2> <strong> GitHub Explorer. </strong></h2>
 Explorer os repositories do GitHub. </br>
 
 Salva em seu LocalStorage, um dos primeiro app desenvolvido em React. </br>
